@@ -6,7 +6,7 @@
 ### <div align="center">I'm chip-sudo, a part-time part-stack freelance developer 👨‍💻 working remotely since 2021 🚀</div>  
   
 
-- 🔭 I’m currently working with [Chenpotatos](https://github.com/chenpotatos) and organization [myxz](http://github.com/org/myxz-team)  
+- 🔭 I’m currently working with [ICE-P](https://github.com/chenpotatos) and organization [myxz](http://github.com/org/myxz-team)  
   
 
 - 🌱 I’m currently learning PHP.  
